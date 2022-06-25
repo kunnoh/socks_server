@@ -1,0 +1,25 @@
+{
+  "name": "socks_server",
+  "version": "1.0.0",
+  "description": "socks5 proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunnoh/socks_server.git"
+  },
+  "keywords": [
+    "sockets",
+    "proxy",
+    "socks",
+    "socks5"
+  ],
+  "author": "kunnoh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kunnoh/socks_server/issues"
+  },
+  "homepage": "https://github.com/kunnoh/socks_server#readme"
+}
